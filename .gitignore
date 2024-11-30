@@ -1,0 +1,7 @@
+# Ignore MLOPS directory
+MLOPS/
+
+# Ignore mlruns directory
+mlruns/
+
+.venv/
