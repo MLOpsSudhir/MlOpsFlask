@@ -2,7 +2,7 @@ FROM python:3.9-slim
 
 WORKDIR /app
 
-COPY  requirement.txt requirement.txt
+COPY  requirements.txt requirements.txt
 
 RUN apt-get update && apt-get install -y bash
 
