@@ -38,6 +38,7 @@ jobs:
 
     - name: Push Docker image
       run: |
+        IMAGE_TAG=${GITHUB_SHA}
         docker push ${{ secrets.DOCKER_USERNAME }}/my_flask_app:$IMAGE_TAG
 
     - name: Tag as latest and push
