@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/36faccc1caa64a02bbfe914cedb7f379/artifacts
+end_time: 1732607245770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36faccc1caa64a02bbfe914cedb7f379
+run_name: unleashed-bird-693
+run_uuid: 36faccc1caa64a02bbfe914cedb7f379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732607245031
+status: 4
+tags: []
+user_id: global

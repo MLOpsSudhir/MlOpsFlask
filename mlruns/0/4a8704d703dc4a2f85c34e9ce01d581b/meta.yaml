@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/4a8704d703dc4a2f85c34e9ce01d581b/artifacts
+end_time: 1732609022773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a8704d703dc4a2f85c34e9ce01d581b
+run_name: rebellious-sloth-243
+run_uuid: 4a8704d703dc4a2f85c34e9ce01d581b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732609021881
+status: 3
+tags: []
+user_id: global

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/cfdaa6520b6e4e469f3774c72f8cd8ab/artifacts
+end_time: 1732606632797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfdaa6520b6e4e469f3774c72f8cd8ab
+run_name: agreeable-cod-363
+run_uuid: cfdaa6520b6e4e469f3774c72f8cd8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732606632449
+status: 4
+tags: []
+user_id: global

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/d349c369efa0489c9afc8a1dd17cb345/artifacts
+end_time: 1732610744743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d349c369efa0489c9afc8a1dd17cb345
+run_name: gentle-bear-649
+run_uuid: d349c369efa0489c9afc8a1dd17cb345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732610743632
+status: 3
+tags: []
+user_id: global

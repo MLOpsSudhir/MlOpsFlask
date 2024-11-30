@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/30383236898442a8829c04c5dbfc942d/artifacts
+end_time: 1732606836983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30383236898442a8829c04c5dbfc942d
+run_name: welcoming-carp-29
+run_uuid: 30383236898442a8829c04c5dbfc942d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732606836313
+status: 4
+tags: []
+user_id: global

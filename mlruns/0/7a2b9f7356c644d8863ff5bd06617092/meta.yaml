@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/7a2b9f7356c644d8863ff5bd06617092/artifacts
+end_time: 1732608984103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a2b9f7356c644d8863ff5bd06617092
+run_name: luxuriant-swan-1
+run_uuid: 7a2b9f7356c644d8863ff5bd06617092
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732608983188
+status: 4
+tags: []
+user_id: global

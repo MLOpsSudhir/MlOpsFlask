@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/6e9d53c74a844bdeb0b600f84de466af/artifacts
+end_time: 1732609634417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e9d53c74a844bdeb0b600f84de466af
+run_name: charming-kite-916
+run_uuid: 6e9d53c74a844bdeb0b600f84de466af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732609632160
+status: 3
+tags: []
+user_id: global

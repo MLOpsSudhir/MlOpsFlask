@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/834088a9c7294639b94933fccfead7e7/artifacts
+end_time: 1732609635259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 834088a9c7294639b94933fccfead7e7
+run_name: calm-rook-538
+run_uuid: 834088a9c7294639b94933fccfead7e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732609630638
+status: 4
+tags: []
+user_id: global

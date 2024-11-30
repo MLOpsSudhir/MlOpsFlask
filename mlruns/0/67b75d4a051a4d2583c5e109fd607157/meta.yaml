@@ -1,0 +1,15 @@
+artifact_uri: file:///home/global/MLOPS_Project/mlruns/0/67b75d4a051a4d2583c5e109fd607157/artifacts
+end_time: 1732610624630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67b75d4a051a4d2583c5e109fd607157
+run_name: intelligent-wolf-399
+run_uuid: 67b75d4a051a4d2583c5e109fd607157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732610623809
+status: 3
+tags: []
+user_id: global
