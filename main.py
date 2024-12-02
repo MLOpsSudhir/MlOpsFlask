@@ -46,7 +46,7 @@ def main():
             mlflow.run("./src", entry_point="Data_Cleaning.py", env_manager="local", run_name="Data Cleaning")
             mlflow.run("./src", entry_point="Data_preprocessing.py", env_manager="local", run_name="Data Preprocessing")
             mlflow.run("./src", entry_point="model_building.py", env_manager="local", run_name="Model Building")
-            mlflow.run("./src", entry_point="Model_Evaluation.py", env_manager="local", run_name="Model Evaluation")
+            mlflow.run("./src", entry_point="Model_Evaluation.py", env_manager="local", run_name="Model_Evaluation")
             
             print("MLflow pipeline completed successfully.")
             
