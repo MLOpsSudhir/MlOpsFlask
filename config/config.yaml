@@ -1,0 +1,4 @@
+data_paths:
+  raw_data_path: ./../artifacts/data/raw_data/
+  Cleaned_data_path: ./../artifacts/data/cleaned_data/
+  

@@ -36,7 +36,7 @@ def data_processing(cleaned_data_path, processed_data_path, Target):
     df = pd.read_csv(cleaned_data)
     Y=df[Target]
     X=df.drop(columns=[Target])
-    test_size=.2
+    test_size=.4
     X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.2)
     X_train.to_csv(os.path.join(processed_data_path,"X_train.csv"),index=False)
     X_test.to_csv(os.path.join(processed_data_path,"X_test.csv"),index=False)
